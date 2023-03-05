@@ -6,4 +6,4 @@ Very simple programs Developed by me
 ## List of contents
 * [tjMedia-karaoke-songRequest-macro](./tjMedia-karaoke-songRequest-macro)
 * [bitburner-scripts](./bitburner-scripts)
-* [autoSelfcheck](./autoSelfcheck)
+* [autoSelfcheck](https://github.com/Archive-ToyProjects/autoSelfcheck)
