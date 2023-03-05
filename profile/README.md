@@ -1,7 +1,7 @@
 # Toy Projects
 Very simple programs Developed by me
 
-<img src="./profile/worthlessMeme.png" width="40%">
+<img src="https://github.com/Archive-ToyProjects/.github/raw/main/profile/worthlessMeme.png" width="40%">
 
 ## List of contents
 * [tjMedia-karaoke-songRequest-macro](https://github.com/Archive-ToyProjects/tjMedia-karaoke-songRequest-macro)
