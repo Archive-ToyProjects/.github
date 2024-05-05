@@ -7,4 +7,3 @@ Very simple programs Developed by me
 * [tjMedia-karaoke-songRequest-macro](https://github.com/Archive-ToyProjects/tjMedia-karaoke-songRequest-macro)
 * [bitburner-scripts](https://github.com/Archive-ToyProjects/bitburner-scripts)
 * [autoSelfcheck](https://github.com/Archive-ToyProjects/autoSelfcheck)
-* [birthday](https://github.com/DohanToyproject/birthday)
